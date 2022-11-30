@@ -14,18 +14,19 @@ Sintaxe com seu equivalente em HTML (caso haja):
 ![enfase](https://user-images.githubusercontent.com/101885085/204771071-ec31a10f-25a8-4271-8a2f-61effda55605.jpg)
 
 # Lista Ordenada 
-###(equivalente ao (<ol>))
+###(equivalente ao (ol))
 ![lista ordenada](https://user-images.githubusercontent.com/101885085/204771212-d10cd920-03f3-4851-995c-70509a918a18.jpg)
 
 # Lista Não Ordenada 
-### (equivalente ao <ul>)
+### (equivalente ao (ul))
 ![lista não ordenada](https://user-images.githubusercontent.com/101885085/204771210-7f15a3b7-c259-4b5a-b7df-706610e8e77f.jpg)
 
 # Links 
-### (equivalente ao <a>)
+### (equivalente ao (a))
 ![links](https://user-images.githubusercontent.com/101885085/204771208-cf96d4f1-d133-4408-b5aa-263f547b195a.jpg)
 
-# Quotes (equivalente ao <blockquote>)
+# Quotes 
+###(equivalente ao (blockquote))
 ![quotes](https://user-images.githubusercontent.com/101885085/204771213-2a99e06e-264e-49ed-b0bd-63764be1e1db.jpg)
 
 # Tasklists
