@@ -1,5 +1,5 @@
 Deixo aqui algumas dicas  para fazer um README.md para aquele projeto que você quer deixar mais bacana. 
-Falaremos um pouco sobre markdown e focaremos em formatação, imagens, GIFs, links, listas, quotes, tasklists e código no README.md.
+foco em formatação, imagens, GIFs, links, listas, quotes, tasklists e código no README.md.
 
 O README tendo a extensão .md é um arquivo markdown, e o que é isso? Uma linguagem de marcação, assim como HTML e serve basicamente para estilizarmos texto na web. Falando no HTML algumas tags também funcionam, veremos adiante.
 
