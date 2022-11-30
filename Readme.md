@@ -6,24 +6,27 @@ Ok, é bacana sabermos que o README.md tendo a extensão .md é um arquivo markd
 Sintaxe com seu equivalente em HTML (caso haja):
 
 Header (equivalente aos <h1><h2><h3>)
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/header.webp)
+
 Ênfase (equivalente ao negrito <b>, itálico <i> e riscado <strike>)
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/enfase.webp)
+
 Lista Ordenada (equivalente ao <ol>)
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/lista%20ordenada.webp)
+
 Lista Não Ordenada (equivalente ao <ul>)
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/lista%20n%C3%A3o%20ordenada.webp)
+
 Links (equivalente ao <a>)
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/links.webp)
+
 Quotes (equivalente ao <blockquote>)
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/quotes.webp)
+
 Tasklists
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/task.webp)
+
 Código
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/codigo.webp)
+
 
 Tabelas
-![Alt text](../../../../../../C:/Users/Lucas/Desktop/redes/readme/tabelas.webp)
+
+  
+  
+  
 Em markdown temos que basicamente desenhar a tabela, porém existe um gerador de tabelas que facilita a nossa vida: gerador
 Basta copiar o que o gerador criar e colar no README.md.
 
