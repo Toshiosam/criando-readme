@@ -47,3 +47,4 @@ Em markdown: ![](caminho até a imagem)
 Em HTML: <img src=”caminho até a imagem”>
 Com a tag HTML também podemos usar os atributos height e width para alterar o tamanho :D
 
+
