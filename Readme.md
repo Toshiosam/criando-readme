@@ -29,7 +29,7 @@ Sintaxe com seu equivalente em HTML (caso haja):
 # **Código**
 ![codigo](https://user-images.githubusercontent.com/101885085/204770910-1c7072df-0f4d-4505-85ad-3411ab73218f.jpg)
 
-## Em markdown temos que basicamente desenhar a tabela, porém existe um gerador de tabelas que facilita a nossa vida: gerador
+## Em markdown temos que basicamente desenhar a tabela, porém existe um gerador de tabelas que facilita a nossa vida: [gerador](https://www.tablesgenerator.com/markdown_tables)
 Basta copiar o que o gerador criar e colar no README.md.
 # **Tabelas**
 ![tabelas](https://user-images.githubusercontent.com/101885085/204771215-e9860e67-a643-41c0-8b13-7c030752dd1f.jpg)
