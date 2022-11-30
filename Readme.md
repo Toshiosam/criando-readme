@@ -5,10 +5,10 @@ Ok, é bacana sabermos que o README.md tendo a extensão .md é um arquivo markd
 
 Sintaxe com seu equivalente em HTML (caso haja):
 
-# Header (equivalente aos <h1><h2><h3>)
+# ** Header ** (equivalente aos <h1><h2><h3>)
 ![header](https://user-images.githubusercontent.com/101885085/204771167-9e64cefd-a998-40e0-ba00-c035f4102ada.jpg)
 
-# Ênfase (equivalente ao negrito <b>, itálico <i> e riscado <strike>)
+# ** Ênfase ** (equivalente ao negrito <b>, itálico <i> e riscado <strike>)
 ![enfase](https://user-images.githubusercontent.com/101885085/204771071-ec31a10f-25a8-4271-8a2f-61effda55605.jpg)
 
 # Lista Ordenada (equivalente ao <ol>)
